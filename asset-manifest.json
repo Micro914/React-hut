@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-hut/static/css/main.bbd5e70d.chunk.css",
+    "main.js": "/React-hut/static/js/main.88eb49f0.chunk.js",
+    "main.js.map": "/React-hut/static/js/main.88eb49f0.chunk.js.map",
+    "runtime-main.js": "/React-hut/static/js/runtime-main.ba2349e6.js",
+    "runtime-main.js.map": "/React-hut/static/js/runtime-main.ba2349e6.js.map",
+    "static/js/2.1060c3fb.chunk.js": "/React-hut/static/js/2.1060c3fb.chunk.js",
+    "static/js/2.1060c3fb.chunk.js.map": "/React-hut/static/js/2.1060c3fb.chunk.js.map",
+    "index.html": "/React-hut/index.html",
+    "static/css/main.bbd5e70d.chunk.css.map": "/React-hut/static/css/main.bbd5e70d.chunk.css.map",
+    "static/js/2.1060c3fb.chunk.js.LICENSE.txt": "/React-hut/static/js/2.1060c3fb.chunk.js.LICENSE.txt",
+    "static/media/meal.d50a133e.jpg": "/React-hut/static/media/meal.d50a133e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2349e6.js",
+    "static/js/2.1060c3fb.chunk.js",
+    "static/css/main.bbd5e70d.chunk.css",
+    "static/js/main.88eb49f0.chunk.js"
+  ]
+}
