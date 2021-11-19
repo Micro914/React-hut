@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Page
 
-(https://micro914.github.io/React-hut/).
+https://micro914.github.io/React-hut/.
